@@ -1,0 +1,244 @@
+header {
+  margin: 50px;
+}
+.htmllogo {
+  vertical-align: middle;
+}
+nav {
+  display: inline-block;
+  vertical-align: middle;
+}
+li {
+  display: inline-block;
+  margin-left: 90px;
+}
+a {
+  color: #8d81ff;
+  font-family: FiraGO;
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  text-decoration: none;
+}
+.active {
+  color: #4e6fae;
+  text-decoration: none;
+}
+.s-1 {
+  margin: 50px;
+}
+.my26 {
+  width: 50px;
+  height: 50px;
+  background-color: #5012d5;
+  color: #84ff81;
+  font-family: helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+h3 {
+  color: #8d81ff;
+  font-family: FiraGO;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: 10px;
+}
+h4 {
+  color: #4e6fae;
+  font-family: FiraGO;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-bottom: 14px;
+}
+.codepic {
+  vertical-align: top;
+}
+.pdiv {
+  display: inline-block;
+  width: 778px;
+  vertical-align: top;
+}
+p {
+  margin-bottom: 20px;
+  color: #4e6fae;
+  font-family: FiraGO;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-left: 142px;
+}
+.p2 {
+  color: #4e6fae;
+  font-family: FiraGO;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-left: 66px;
+}
+.p3 {
+  color: #4e6fae;
+  font-family: FiraGO;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: 32px;
+  margin-left: 0px;
+}
+.pdiv2 {
+  width: 1021px;
+  height: 148px;
+  vertical-align: top;
+}
+.f-2 {
+  margin-top: 143px;
+  margin-left: 194px;
+}
+.f-3 {
+  margin-top: 143;
+  margin-left: 98;
+}
+.face {
+  margin-right: 41px;
+}
+.youtube {
+  margin-left: 41px;
+}
+.pichtml {
+  width: 1052px;
+  height: 462px;
+  margin-left: 194px;
+  margin-right: 194px;
+  margin-top: 114px;
+}
+.pdiv3 {
+  margin-top: 103px;
+}
+.p4 {
+  color: #4e6fae;
+  font-family: FiraGO;
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-right: 14px;
+  margin-left: 194px;
+  display: inline-block;
+}
+.line1 {
+  width: 2px;
+  height: 24px;
+  display: inline-block;
+}
+.p5 {
+  color: #4e6fae;
+  font-family: FiraGO;
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  width: 484px;
+  height: 34px;
+  display: inline-block;
+  margin-left: 17px;
+}
+.box1 {
+  width: 500px;
+  height: 192px;
+  background-color: #e7e7e7;
+  display: inline-block;
+  vertical-align: top;
+  padding: 20px;
+  margin-left: 194px;
+  margin-right: 52px;
+  margin-top: 17px;
+}
+.myh2 {
+  color: #3f4145;
+  font-family: Helvetica Neue LT GEO;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: 20px;
+}
+.myp3 {
+  width: 300px;
+  height: 95px;
+  display: inline-block;
+  color: #7e8898;
+  font-family: Helvetica Neue LT GEO;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-left: 37px;
+  vertical-align: top;
+}
+.box2 {
+  width: 500px;
+  height: 192px;
+  background-color: #e7e7e7;
+  display: inline-block;
+  vertical-align: top;
+  padding: 20px;
+  margin-left: 52px;
+  margin-top: 17px;
+}
+.backcolour1 {
+  background-color: #e7e7e7;
+  width: 1660px;
+  height: 735px;
+  display: inline-block;
+  padding-top: 110px;
+  padding-bottom: 110px;
+  padding-right: 162;
+}
+span {
+  color: #3f4145;
+  font-family: helvetica Heue LT GEO;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  display: inline-block;
+}
+.contact {
+  color: #4e6fae;
+  font-family: "Helvetica Neue";
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-left: 162px;
+  margin-bottom: 27px;
+  padding-top: 93px;
+  display: inline-block;
+}
+.contact1 {
+  color: #7e8898;
+  font-family: "Helvetica Neue LT GEO";
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-left: 167px;
+  margin-bottom: 27px;
+}
+.map {
+  display: inline-block;
+  width: 944px;
+  height: 549px;
+  margin-left: 1em;
+}
